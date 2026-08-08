@@ -1,0 +1,31 @@
+RAJA-N PORTFOLIO — COMPLETE FINAL SETUP
+
+CURRENT URL
+https://rajamuthu360.github.io/Raja-N/
+
+DESIGN
+- Golden Yellow accent theme
+- Dark professional background
+- Singapore skyline background
+- Centered TOM Intelligent Engineering watermark
+- Existing profile/photo/CV/project content preserved
+
+SEO
+Title: N. RAJA | BIM Coordinator (DfMA) | Singapore
+Description: N. RAJA — BIM Coordinator (DfMA) in Singapore specialising in BIM modelling, MEP coordination, DfMA, project coordination and MEP prefabrication.
+Keywords: N. RAJA, Raja BIM Coordinator, Raja BIM Singapore, BIM Coordinator Singapore, BIM Designer Singapore, BIM Coordinator DfMA, DfMA Singapore, MEP BIM, MEP Coordination, Revit, Navisworks, AutoCAD, MEP Prefabrication, BIM Portfolio Singapore
+Canonical: https://rajamuthu360.github.io/Raja-N/
+Sitemap: https://rajamuthu360.github.io/Raja-N/sitemap.xml
+
+GOOGLE SEARCH CONSOLE
+1. Add URL-prefix property:
+   https://rajamuthu360.github.io/Raja-N/
+2. Verify ownership.
+3. Submit:
+   https://rajamuthu360.github.io/Raja-N/sitemap.xml
+4. URL Inspection:
+   https://rajamuthu360.github.io/Raja-N/
+5. Click Request Indexing.
+
+GITHUB
+Upload/replace all files in the Raja-N repository, then Commit changes.

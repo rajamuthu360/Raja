@@ -37,7 +37,7 @@ Added to the current Singapore-background portfolio:
 - sitemap.xml
 
 Google Search Console:
-1. Add https:https://rajamuthu360.github.io/Raja-N/
+1. Add https://rajamuthu360.github.io/
 2. Verify ownership.
 3. Submit https://rajamuthu360.github.io/sitemap.xml
 4. Use URL Inspection for https://rajamuthu360.github.io/ and request indexing.
