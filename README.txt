@@ -1,12 +1,12 @@
-RAJA BIM Portfolio — TOM Logo Edition
+N. RAJA BIM PORTFOLIO — BLUE/CYAN PORTFOLIO REDESIGN
 
-The TOM Intelligent Engineering logo is used as a large, transparent background watermark.
-The white background of the supplied logo has been removed so the logo appears without a white block.
+This version is redesigned to closely follow the supplied reference image:
+- dark navy / black background
+- cyan-blue glow and accents
+- compact rounded cards
+- circular profile image in the hero
+- About / Education / Skills / Projects / Experience / Contact sections
+- responsive mobile layout
+- SEO metadata, sitemap and robots.txt retained
 
-Upload all files to the root of the GitHub Pages repository:
-index.html
-style.css
-script.js
-raja-profile.jpg
-RAJA_CV.pdf
-tom-logo.png
+Upload all files to the GitHub Pages root.
